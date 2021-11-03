@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: https://github.com/Doris-98/VebKomunikacijeProjekat1/blob/main/kontakt6.html

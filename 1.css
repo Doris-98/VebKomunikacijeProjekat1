@@ -93,6 +93,20 @@ li:hover a {
     color:black; 
     text-shadow: black; 
 } 
+#footer1{
+    background-image: url(projekat/23.jpg);
+    height: 300; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-size: cover; 
+    padding: 30px; 
+    font-size: 25px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left; 
+    color:black; 
+    text-shadow: black; 
+}
 
 input[type=checkbox]{
     display: none; 

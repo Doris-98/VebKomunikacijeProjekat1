@@ -78,38 +78,8 @@ li:hover a {
     text-align: center; 
     position: center; 
 }
-.slika1 {
-    position: center; 
-    width: 400px; 
-    border-radius: 20px; 
-    height: 400px; 
-    display: inline;
-}
-.slika1 p{
-    font-size: 30px; 
-    margin: 0px;
-    color: black;  
-    letter-spacing: 5px; 
-    text-align: center; 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
 
 #footer{
-    background-image: url(projekat/23.jpg);
-    height: 300; 
-    background-position: center; 
-    background-repeat: no-repeat; 
-    background-attachment: fixed; 
-    background-size: cover; 
-    padding: 30px; 
-    font-size: 25px; 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: left; 
-    color:black; 
-    text-shadow: black; 
-} 
-
-#footer1{
     background-image: url(projekat/23.jpg);
     height: 300; 
     background-position: center; 
@@ -214,24 +184,6 @@ input[type=cheeckbox]:checked~#menu
     
 }
 
-.slika10 {
-    position: left;
-    width: 800px; 
-    border-radius: 20px; 
-    height: 500px; 
-    display: inline; 
-}
-
-.slika10 h4{
-    font-size: 15px; 
-    margin: 0px;
-    color: black; 
-    letter-spacing: 2px; 
-    text-align: center; 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 10px 10px; 
-}
-
 .slika01 {
     position: right; 
     width: 600px; 
@@ -253,14 +205,6 @@ padding: 10px 10px;
 .span{
     font-weight: bold; 
     color: maroon; 
-}
-
-#linia{
-    height:2px; 
-    background-color: lightgray; 
-    width:20%; 
-    margin:0px 600px;
-    text-align: center; 
 }
 
 #linija{

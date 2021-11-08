@@ -33,6 +33,7 @@ li {
     display:inline-block; 
     float: none; 
     margin-right: 7px;
+    transition: 0.5s all;
 
    
 }
